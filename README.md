@@ -8,3 +8,6 @@ https://en.wikipedia.org/wiki/Lotka%E2%80%93Volterra_equations
 - LO3: Describe the steps involved in modelling systems and processes.
 - LO4: Apply analytical and modelling skills to a range of problems relevant to computing and digital media domains.
 - LO5: Demonstrate skills in problem solving and effective communication in a variety of settings, relevant to future study, research and in the workplace.
+
+## Further reading source:
+http://www.personal.psu.edu/sxt104/class/Math251/Notes-Predator-Prey.pdf
