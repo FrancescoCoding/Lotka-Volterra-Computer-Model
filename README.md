@@ -1,6 +1,8 @@
 # Lotka-Volterra-Computer-Model
 A model of the nonlinear system of differential equations in mathematical biology / ecology: the predator-prey relationship of a simple eco-system.
 
+## [Read  the report](https://github.com/FrancescoCoding/Lotka-Volterra-Computer-Model/blob/main/Lotka-Volterra%20model%20report%20and%20result%20analysis.pdf)
+
 https://en.wikipedia.org/wiki/Lotka%E2%80%93Volterra_equations
 
 ## This model was used to assess:
